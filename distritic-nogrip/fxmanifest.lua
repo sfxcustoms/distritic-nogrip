@@ -1,5 +1,5 @@
 version '1.0.0'
-author 'neptunium-dev'
+author 'neptunium-dev/distritic'
 
 client_scripts {
     'nogrip.lua'
