@@ -1,2 +1,2 @@
 # distritic-nogrip
-Fork of Distritic's NoGroip release on the Cfx Forums.
+Fork of Distritic's NoGrip release on the Cfx Forums.
