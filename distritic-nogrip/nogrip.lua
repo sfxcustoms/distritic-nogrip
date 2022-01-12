@@ -1,9 +1,4 @@
-startMsg = false -- fasle by default.
 local ragdoll_chance = 0.8 -- (50 = 0.5; 75 = 0.75)
-
-if startMsg then
-    print("nogrip is enabled for this server.")
-end
 
 CreateThread(function()
 	while true do
