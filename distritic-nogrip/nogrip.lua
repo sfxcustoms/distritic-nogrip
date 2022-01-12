@@ -8,7 +8,7 @@ CreateThread(function()
 			local chance_result = math.random()
 			if chance_result < ragdoll_chance then 
 				Wait(600)
-                ShakeGameplayCam('SMALL_EXPLOSION_SHAKE', 0.08)
+				ShakeGameplayCam('SMALL_EXPLOSION_SHAKE', 0.08)
 				SetPedToRagdoll(ped, 5000, 1, 2)
 			else
 				Wait(1500)
